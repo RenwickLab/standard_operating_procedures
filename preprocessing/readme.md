@@ -28,7 +28,7 @@
 	* Identify outliers
 	* __Visualize__: Scatter plot recommended
 1. Find mean Spearman correlation
-	* Calculate mean Sperman correlation of each sample to all other samples
+	* Calculate mean Spearman correlation of each sample to all other samples
 	* Identify outliers
 	* __Visualize__: Scatter plot recommended
 1. Cluster
@@ -36,7 +36,7 @@
 	* Identify samples that cluster on their own
 1. Remove outliers
 1. If outliers are removed, __*repeat preprocessing with outliers removed*__
-	* __Note__: After the first pass of preprocessing, relative frequency normalization and log<sub>2</sub> transformation are  unnnecessary a second time
+	* __Note__: After the first pass of preprocessing, relative frequency normalization and log<sub>2</sub> transformation are unnecessary a second time
 1. Filter for 90<sup>th</sup> percentile of expression
 	* Filter out mRNA/miRNA that are not expressed above the 90<sup>th</sup> percentile
 	* Can use [FilterLowCounts](./helper_functions/FilterLowCounts.m) function to identify lowly expressed features
