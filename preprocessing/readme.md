@@ -22,7 +22,7 @@
 	* __Visualize__: Boxplot recommended
 1. Identify outlier threshold 
 	* [computeAlphaOutliers](./helper_functions/computeAlphaOutliers.m) function can be used to identify α
-	* based on [Hoaglin & ﻿Iglewicz](http://www.jstor.org/stable/2289392)
+	* based on [Hoaglin & ﻿Iglewicz](http://www.doi.org/10.2307/2289392)
 	* outlier threshold depends on sample size. __*Recalculate each time the sample size changes due to removal of outliers etc.*__
 1. Find interquartile range of expression 
 	* Find [IQR](http://www.mathworks.com/help/stats/prob.normaldistribution.iqr.html) of filtered data
