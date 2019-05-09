@@ -1,6 +1,6 @@
 # Preprocessing data
 
-**Standard as of:** _pending approval_
+**Standard as of:** 09 May 2019
 
 ## Overview
 ![Preprocessing overview diagram](./images/preprocess_diagram.jpg)
