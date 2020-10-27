@@ -47,4 +47,4 @@
 
 ## Notes
 * The [make_boxplot](./helper_functions/make_boxplot.m) function can be helpful for labeled boxplots
-* The [scatter\_plot\_mark\_outliers](./helper_functions/scatter_plot_mark_outliers.m) function plots data and identifies outliers
+* The [scatterplot\_mark\_outliers](./helper_functions/scatterplot_mark_outliers.m) function plots data and identifies outliers
